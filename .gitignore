@@ -1,0 +1,10 @@
+# 1. 忽略根目錄下的所有檔案與資料夾
+/*
+
+# 2. 【例外】我要保留 saves 資料夾 (包含裡面所有東西)
+!/saves/
+
+# 3. 【例外】保留 Git 設定檔與備份腳本
+!/.gitignore
+!/.gitattributes
+!/backup.bat
