@@ -707,5 +707,23 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2026-01-15 23:17:10 +0800"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2026-01-15 23:22:14 +0800"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2026-01-16 00:12:42 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
