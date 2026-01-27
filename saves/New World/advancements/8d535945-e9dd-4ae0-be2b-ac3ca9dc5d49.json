@@ -188,8 +188,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2026-01-08 13:52:08 +0800",
+      "potato": "2026-01-19 23:24:40 +0800",
       "rotten_flesh": "2026-01-01 16:44:17 +0800",
-      "dried_kelp": "2026-01-08 23:07:55 +0800"
+      "dried_kelp": "2026-01-08 23:07:55 +0800",
+      "beetroot": "2026-01-19 23:31:16 +0800",
+      "carrot": "2026-01-19 23:27:23 +0800"
     },
     "done": false
   },
@@ -722,6 +725,54 @@
   "mekanismtools:paxel": {
     "criteria": {
       "any_paxel": "2026-01-16 00:12:42 +0800"
+    },
+    "done": true
+  },
+  "mekanism:ultimate_control_circuit": {
+    "criteria": {
+      "ultimate_control_circuit": "2026-01-17 10:16:17 +0800"
+    },
+    "done": true
+  },
+  "mekanism:automated_crafting": {
+    "criteria": {
+      "formulaic_assemblicator": "2026-01-17 12:20:15 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2026-01-17 13:39:07 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2026-01-17 13:39:07 +0800"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/get_basic_pot": {
+    "criteria": {
+      "get_botany_pot": "2026-01-17 13:43:00 +0800"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2026-01-19 21:50:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-01-19 23:23:09 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2026-01-19 23:23:11 +0800"
     },
     "done": true
   },
