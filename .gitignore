@@ -8,3 +8,16 @@
 !/.gitignore
 !/.gitattributes
 !/backup.bat
+
+# 4. 【玩家設定備份】(這次新增的部分)
+# 保留 Minecraft 基礎設定 (按鍵、畫面、聲音)
+!/options.txt
+
+# 保留模組清單列表
+!/modlist.html
+
+# 保留 config 資料夾 (包含 JEI 書籤、所有模組的設定檔)
+!/config/
+
+# 保留 local 資料夾 (包含 FTB Chunks 的客戶端地圖快取/小地圖資料)
+!/local/
