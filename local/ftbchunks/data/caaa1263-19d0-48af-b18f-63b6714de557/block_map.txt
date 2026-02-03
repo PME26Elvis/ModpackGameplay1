@@ -50,6 +50,7 @@
 #207534 minecraft:brown_mushroom
 #208CB0 ae2:cable_bus
 #F512B4 minecraft:chain
+#5162BE mekanism:chemical_crystallizer
 #743AC3 minecraft:chipped_anvil
 #B4ED86 minecraft:chiseled_quartz_block
 #182B07 minecraft:chorus_flower
@@ -89,6 +90,7 @@
 #B2A2E1 minecraft:dandelion
 #E3DF1E minecraft:dark_oak_leaves
 #19C8D3 minecraft:dark_oak_planks
+#59CD2D thermal:device_collector
 #6D7A38 sophisticatedstorage:diamond_barrel
 #55D2EA ironfurnaces:diamond_furnace
 #1A5DF2 rftoolsbase:dimensionalshard_nether
@@ -98,6 +100,7 @@
 #BC8412 dankstorage:dock
 #136FCC minecraft:dragon_egg
 #E432BC ae2:drive
+#157228 cuboidmod:drying_cupboard
 #33351E quark:dusky_myalite
 #3910FD mekanism:elite_energy_cube
 #FA1357 mekanism:elite_infusing_factory
@@ -149,10 +152,12 @@
 #D9AE11 sophisticatedstorage:iron_chest
 #E0725E ironfurnaces:iron_furnace
 #79904E pipez:item_pipe
+#4E69A2 trashcans:item_trash_can
 #C1E251 minecraft:jungle_leaves
 #6C55C8 create:large_cogwheel
 #B01ECD industrialforegoing:latex
 #83CED3 minecraft:lava
+#72D77D minecraft:lever
 #CBF1B4 minecraft:light_blue_terracotta
 #38DD6B minecraft:light_gray_concrete
 #96831B minecraft:light_gray_wool
@@ -202,6 +207,7 @@
 #BBA6D1 minecraft:oak_log
 #E3886A minecraft:oak_planks
 #E187DD exnihilosequentia:oak_sieve
+#7067F6 cfm:oak_upgraded_fence
 #46FB1F minecraft:oak_wall_sign
 #4A5E4E minecraft:obsidian
 #F6DCF1 ironfurnaces:obsidian_furnace
@@ -222,11 +228,14 @@
 #6E9664 cuboidmod:quantum_transmutation_chamber
 #025439 minecraft:red_mushroom
 #4A5246 minecraft:red_terracotta
+#721B63 minecraft:redstone_wire
 #21C665 buildinggadgets2:render_block
+#74006B mekanism:resistive_heater
 #322C0F outer_end:rose_crystal
 #E346C1 outer_end:rose_crystal_bud
 #E348AA outer_end:rose_roots
 #2690C9 outer_end:rose_tangled_violite
+#879B54 mekanism:rotary_condensentrator
 #86FC77 minecraft:sand
 #9D474B minecraft:sandstone_slab
 #38B5DB minecraft:sandstone_stairs
@@ -265,10 +274,14 @@
 #3B1D89 minecraft:stripped_oak_log
 #A88E8E minecraft:stripped_oak_wood
 #1BA264 outer_end:stromatolite
+#5E72B7 mekanism:structural_glass
 #1FF249 botanypots:terracotta_hopper_botany_pot
 #1E96E7 cuboidmod:thatldu_furnace
 #D9A920 cuboidmod:thatldu_singularity_power_generator
 #24842B cuboidmod:thatldu_singularity_resource_generator
+#B12AD5 mekanism:thermal_evaporation_block
+#D5426E mekanism:thermal_evaporation_controller
+#C5F7D8 mekanism:thermal_evaporation_valve
 #EEA7CA minecraft:tinted_glass
 #DA4418 minecraft:twisting_vines
 #89C1BB mekanism:ultimate_energy_cube
