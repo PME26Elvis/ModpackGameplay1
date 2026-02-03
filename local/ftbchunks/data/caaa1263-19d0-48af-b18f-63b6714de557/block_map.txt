@@ -72,6 +72,8 @@
 #2BFCCE ae2:controller
 #CCF217 xnet:controller
 #62B857 create:copper_casing
+#BAADAF ironfurnaces:copper_furnace
+#55970A create:copycat_panel
 #116FF5 minecraft:cracked_polished_blackstone_bricks
 #F4B456 outer_end:cracked_violite_bricks
 #B77BB3 outer_end:cracked_violite_tiles
@@ -82,6 +84,7 @@
 #3F201C minecraft:crimson_stem
 #E9A8F5 minecraft:crying_obsidian
 #CF2998 cuboidmod:cryogenic_dimensional_teleporter
+#9932CC ironfurnaces:crystal_furnace
 #194874 minecraft:cyan_terracotta
 #B2A2E1 minecraft:dandelion
 #E3DF1E minecraft:dark_oak_leaves
@@ -91,14 +94,17 @@
 #1A5DF2 rftoolsbase:dimensionalshard_nether
 #80497A minecraft:dirt
 #4FA7D0 minecraft:dirt_path
+#864BA1 industrialforegoing:dissolution_chamber
 #BC8412 dankstorage:dock
 #136FCC minecraft:dragon_egg
 #E432BC ae2:drive
 #33351E quark:dusky_myalite
+#3910FD mekanism:elite_energy_cube
 #FA1357 mekanism:elite_infusing_factory
 #CD10BA mekanism:elite_universal_cable
 #180FBA ironfurnaces:emerald_furnace
 #A952FC create:encased_chain_drive
+#548B83 create:encased_fan
 #889C43 minecraft:end_portal
 #89C856 minecraft:end_rod
 #A8CFF4 minecraft:end_stone
@@ -118,6 +124,8 @@
 #520A6A powah:energy_cell_starter
 #009B14 minecraft:farmland
 #D12A2A industrialforegoing:fluid_extractor
+#74DD95 industrialforegoing:fluid_laser_base
+#A86BF7 pipez:fluid_pipe
 #2DC94B minecraft:furnace
 #D60460 create:gearbox
 #1E33BF minecraft:gilded_blackstone
@@ -139,6 +147,7 @@
 #D47B15 ae2:inscriber
 #23066B ae2:interface
 #D9AE11 sophisticatedstorage:iron_chest
+#E0725E ironfurnaces:iron_furnace
 #79904E pipez:item_pipe
 #C1E251 minecraft:jungle_leaves
 #6C55C8 create:large_cogwheel
@@ -195,6 +204,8 @@
 #E187DD exnihilosequentia:oak_sieve
 #46FB1F minecraft:oak_wall_sign
 #4A5E4E minecraft:obsidian
+#F6DCF1 ironfurnaces:obsidian_furnace
+#4C77E1 thermal:obsidian_glass
 #B0B5A0 outer_end:ominous_miasma
 #EA9F69 mekanism:osmium_compressor
 #05E6F2 ae2:pattern_provider
@@ -226,6 +237,7 @@
 #F68259 minecraft:shroomlight
 #50B5A4 createsifter:sifter
 #3F71A6 cuboidmod:silica_dust_block
+#1ABBA3 ironfurnaces:silver_furnace
 #9F0877 industrialforegoing:simple_black_hole_tank
 #05E2DE cookingforblockheads:sink
 #7552C1 immersiveengineering:slab_sheetmetal_steel
@@ -243,7 +255,9 @@
 #64F88A minecraft:spruce_slab
 #D9135A minecraft:spruce_stairs
 #C283C5 exnihilosequentia:stone_barrel
+#F8955F minecraft:stone_bricks
 #AB5BC7 minecraft:stone_slab
+#2E9337 minecraft:stonecutter
 #BE5BDB minecraft:stripped_acacia_wood
 #D1E517 minecraft:stripped_birch_wood
 #B001A7 minecraft:stripped_dark_oak_wood
@@ -268,6 +282,8 @@
 #78332B minecraft:warped_nylium
 #5BFED4 minecraft:warped_stem
 #9D2725 minecraft:warped_wart_block
+#AAF4B7 create:water_wheel
+#7D38EB create:water_wheel_structure
 #1C0619 waystones:waystone
 #B75CCB create:white_sail
 #BC20FE minecraft:white_wool
